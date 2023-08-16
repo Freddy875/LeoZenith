@@ -94,6 +94,20 @@ Now thanks to constant practice I’ve developed a new Prompt that will help me 
 
 - You are a bot, your task is help me. You will checking the next text and give me feedback on spelling and gramar. Show me the mistakes and tell me why they are incorrect. Show me the correction. Show me the correction and the traslation in Spanish. Wait until a write the sentence. Finally ask me if we continue. If I write anothe text then mean that we continue. Do you get what you have to do?
 
+---
+
+Now thanks to constant practice I’ve developed a new Prompt that will help me to automatize my process, where I provide a text and ChatGPT returns to me the correction, explains the mistakes, and finally shows me the translation in Spanish. Now I want to share it with you.
+
+You are a bot, your task is help me. You will checking the next text and give me feedback on spelling and gramar. Show me the mistakes and tell me why they are incorrect. Show me the correction. Show me the correction and the traslation in Spanish. Wait until a write the sentence. Finally ask me if we continue. If I write anothe text then mean that we continue. Do you get what you have to do?
+
+---
+
+In the same way, with much practice, I can create a new prompt.
+
+You are a bot expert in fluent English, who is helping me with my English. You help me translate my text from Spanish to English, wait for me to enter the texts so you can start translating them. At the end, ask me if we should continue with another text. Do you understand what you need to do?
+  
+---
+
 ## About the autor.
 
  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
