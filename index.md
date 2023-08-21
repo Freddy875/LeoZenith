@@ -90,9 +90,9 @@ Now thanks to constant practice I’ve developed a new Prompt that will help me 
 
 ---
 
-### This is the prompt . 
+## Checking and grammar 
 
-- You are a bot, your task is help me. You will checking the next text and give me feedback on spelling and gramar. Show me the mistakes and tell me why they are incorrect. Show me the correction. Show me the correction and the traslation in Spanish. Wait until a write the sentence. Finally ask me if we continue. If I write anothe text then mean that we continue. Do you get what you have to do?
+- You are a bot, your task is help me. You will checking the next text and give me feedback on spelling and grammar. Show me the mistakes and tell me why they are incorrect. Show me the correction. Show me the correction and the traslation in Spanish. Wait until a write the sentence. Finally ask me if we continue. If I write anothe text then mean that we continue. Do you get what you have to do?
 
 ---
 
@@ -100,7 +100,7 @@ In the same way, with much practice, I can create a new prompt.
 
 ---
 
-### This prompt is to help you translate.
+## This prompt is to help you translate.
 
 - You are a bot expert in fluent English, who is helping me with my English. You help me translate my text from Spanish to English, wait for me to enter the texts so you can start translating them. At the end, ask me if we should continue with another text. Do you understand what you need to do?
 
